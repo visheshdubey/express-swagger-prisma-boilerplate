@@ -65,3 +65,25 @@ yarn eslint --init
 ```
 
 These `yarn` commands provide the equivalent functionality to the provided `npm` commands, helping you manage your Node.js project, set up Prisma, and maintain code quality with ESLint and Prettier.
+
+## Swagger-UI Setup
+
+Install the dependencies
+
+```shell
+yarn add swagger-autogen swagger-ui-express
+```
+
+Install the types
+
+```shell
+yarn add --dev @types/swagger-ui-express
+```
+
+## Express validator
+
+Install the dependencies
+
+```shell
+yarn add express-validator
+```
