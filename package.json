@@ -1,8 +1,8 @@
 {
-  "name": "hyheart-express",
+  "name": "express-swagger-prisma-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/visheshdubey/hyheart-express",
+  "repository": "https://github.com/visheshdubey/express-swagger-prisma-boilerplate",
   "author": "Vishesh Dubey <visheshdubey2016@gmail.com>",
   "license": "MIT",
   "scripts": {
